@@ -1,0 +1,19 @@
+{
+    "email": {
+        "smtp_url": "smtp.live.com:587",
+        "user": "Your email username",
+        "password": "Your email password"
+    },
+    "base_url": "https://www.amazon.co.jp/dp/",
+    "xpath_selector": "//*[@id='priceblock_ourprice']",
+    "items": [
+        [
+            "productcode",
+            price upper limit
+        ],
+        [
+            "productcode",
+            price upper limit
+        ]
+    ]
+}
