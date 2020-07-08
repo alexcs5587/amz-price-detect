@@ -8,3 +8,6 @@ Clone from the repository
 Use 'pip install -r requirements.txt' to install the required packages
 
 Go to `config.json` and change the configuration
+
+## Run
+Python price-dectect.py
