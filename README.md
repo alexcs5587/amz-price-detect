@@ -1,6 +1,6 @@
 ## Amz-price-detect
 
-Dectect Amazon.jp product price & receive email notification if it drops to the expected price
+Detect Amazon.jp product prices & receive email notification if it drops to the expected price
 
 ## Install
 Clone the repository
